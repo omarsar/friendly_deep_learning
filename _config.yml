@@ -29,7 +29,7 @@ kramdown:
 # Site owner
 owner:
   name: Natural Language Processing
-  avatar: nlp.png
+  avatar: dl.png
   bio: "NLP"
   email: ellfae@gmail.com
   disqus-shortname: #elvissaravia
