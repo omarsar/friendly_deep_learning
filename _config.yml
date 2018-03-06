@@ -28,9 +28,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Natural Language Processing
+  name: Deep Learning
   avatar: dl.png
-  bio: "NLP"
+  bio: "DL"
   email: ellfae@gmail.com
   disqus-shortname: #elvissaravia
   twitter: omarsar0
